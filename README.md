@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Zendrex</h1>
+<h1 align="center">Hi👋, I'm Zendrex</h1>
 
 <p align="center">
   🚀 Full-Stack Mobile Developer | 🎯 Startup Founder | 🎥 Content Creator
